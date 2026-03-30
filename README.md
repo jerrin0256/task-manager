@@ -70,7 +70,13 @@ A simple and responsive Task Management application built using modern frontend 
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Add Task
-![Add Task](./screenshots/add-task.png)
+![Add Task](./screenshots/addtask.png)
+
+### Add Task
+![status](./screenshots/status.png)
+
+### Add Task
+![dark mode](./screenshots/darkmode.png)
 
 ---
 
